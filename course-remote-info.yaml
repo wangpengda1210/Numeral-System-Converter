@@ -1,0 +1,128 @@
+hyperskill_project:
+  id: 107
+  ide_files: https://stepik.org/media/attachments/lesson/353195/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Fri, 13 Nov 2020 02:08:35 UTC
+stages:
+- id: 580
+  step: 9629
+  is_completed: true
+- id: 581
+  step: 9630
+  is_completed: true
+- id: 582
+  step: 9631
+  is_completed: true
+- id: 583
+  step: 9632
+  is_completed: true
+- id: 584
+  step: 9633
+  is_completed: true
+- id: 585
+  step: 9634
+  is_completed: true
+topics:
+  0:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Converting from binary to decimal
+    theory_id: 5622
+  - title: Converting from decimal to binary
+    theory_id: 5614
+  - title: Introduction to Kotlin
+    theory_id: 4350
+  - title: Basic literals
+    theory_id: 4351
+  - title: Overview of the basic program
+    theory_id: 4362
+  - title: Standard output
+    theory_id: 4425
+  1:
+  - title: Units of information
+    theory_id: 6865
+  - title: Values and variables
+    theory_id: 4371
+  - title: Data types
+    theory_id: 4388
+  - title: The classification of basic types
+    theory_id: 4455
+  - title: Arithmetic operations
+    theory_id: 4472
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Increment and decrement
+    theory_id: 10776
+  - title: Invoking functions
+    theory_id: 4575
+  - title: Standard input
+    theory_id: 4445
+  - title: Type conversion
+    theory_id: 4672
+  - title: Reading data with a readLine
+    theory_id: 11224
+  - title: Type inference
+    theory_id: 9506
+  - title: Integers in action
+    theory_id: 4488
+  - title: Relational operators
+    theory_id: 4525
+  - title: Characters
+    theory_id: 4680
+  2:
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Ranges
+    theory_id: 4633
+  - title: Strings
+    theory_id: 4540
+  - title: If expression
+    theory_id: 4625
+  - title: When expression
+    theory_id: 4631
+  - title: IDE
+    theory_id: 10996
+  - title: IntelliJ IDEA
+    theory_id: 3801
+  - title: IDEA Basics
+    theory_id: 5819
+  - title: EduTools
+    theory_id: 5839
+  3:
+  - title: String templates
+    theory_id: 4547
+  - title: Repeating blocks
+    theory_id: 4643
+  - title: For loop and ranges
+    theory_id: 4652
+  - title: While loops
+    theory_id: 4659
+  - title: Jumps and returns
+    theory_id: 6165
+  4:
+  - title: Floating-point types
+    theory_id: 4502
+  - title: Getting substrings
+    theory_id: 8535
+  - title: Arrays
+    theory_id: 4564
+  - title: For loop and arrays
+    theory_id: 4657
+  - title: Processing strings
+    theory_id: 9027
+  5:
+  - title: Comments
+    theory_id: 4406
+  - title: Coding style conventions
+    theory_id: 4419
+  - title: Naming variables
+    theory_id: 4389
+  - title: Declaring functions
+    theory_id: 4580
+  - title: What is an exception
+    theory_id: 7243
+  - title: Taming exceptions
+    theory_id: 7601
+  - title: The try-catch statement
+    theory_id: 10622
